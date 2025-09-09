@@ -1,5 +1,5 @@
 # Menginstal library viresclient untuk mengambil data SWARM
-#!pip install viresclient
+!pip install viresclient
 # library yang digunakan
 import joblib
 import numpy as np
